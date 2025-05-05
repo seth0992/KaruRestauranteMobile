@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaruRestauranteMobile.Model
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaruRestauranteMobile.API", "KaruRestauranteMobile.API\KaruRestauranteMobile.API.csproj", "{DEA18DA0-7F67-468A-98B8-4ABDD517869C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaruRestauranteMobile.Data", "KaruRestauranteMobile.Data\KaruRestauranteMobile.Data.csproj", "{5223B52D-1BB0-440B-8C51-1E5D2628858E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{DEA18DA0-7F67-468A-98B8-4ABDD517869C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEA18DA0-7F67-468A-98B8-4ABDD517869C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEA18DA0-7F67-468A-98B8-4ABDD517869C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5223B52D-1BB0-440B-8C51-1E5D2628858E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5223B52D-1BB0-440B-8C51-1E5D2628858E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5223B52D-1BB0-440B-8C51-1E5D2628858E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5223B52D-1BB0-440B-8C51-1E5D2628858E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
